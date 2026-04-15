@@ -1,0 +1,5 @@
+{
+  "name": "Assembly Constituency - SST",
+  "description": "A web-based application to search and view officers by assembly constituency, with data fetched dynamically from Google Sheets.",
+  "requestFramePermissions": []
+}
